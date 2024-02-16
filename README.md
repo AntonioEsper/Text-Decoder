@@ -2,6 +2,8 @@
 
 Este é um projeto de um decodificador de texto. Ele permite que os usuários insiram um texto e escolham criptografar ou descriptografar o texto. O resultado é exibido na tela e pode ser copiado para a área de transferência.
 
+Preview do Projeto: https://antonioesper.github.io/Text-Decoder/
+
 ## Como usar
 
 1. Digite o texto que deseja criptografar ou descriptografar na caixa de texto.
