@@ -4,6 +4,8 @@ Este é um projeto de um decodificador de texto. Ele permite que os usuários in
 
 Preview do Projeto: https://antonioesper.github.io/Text-Decoder/
 
+#challengeonedecodificador5
+
 ## Como usar
 
 1. Digite o texto que deseja criptografar ou descriptografar na caixa de texto.
